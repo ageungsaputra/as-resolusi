@@ -8,3 +8,5 @@ Rencana Belajar
   - Tipe Data
   - Perulangan
   - Break & Continue
+  - Operator
+  - Percabangan
