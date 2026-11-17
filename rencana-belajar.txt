@@ -1,0 +1,4 @@
+Rencana Belajar
+
+1. Powershell
+2. Python
