@@ -1,0 +1,6 @@
+Rencana Belajar
+
+1. Powershell
+  - Buat catatan seluruh command
+  - Pelajari satu persatu
+2. Python
