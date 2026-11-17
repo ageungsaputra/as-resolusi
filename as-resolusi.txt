@@ -1,3 +1,5 @@
 AS Resolusi
 1. Belajar dasar-dasar pemrograman
 2. Belajar membuat sebuah program
+3. Belajar dasar-dasar jaringan komputer
+4. Belajar dasar-dasar basis data
