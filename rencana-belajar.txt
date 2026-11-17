@@ -6,5 +6,7 @@ Rencana Belajar
 2. Python
   - Variabel
   - Tipe Data
+  - Perulangan
+  - Break & Continue
   - Operator
   - Percabangan
