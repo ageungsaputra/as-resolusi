@@ -1,0 +1,3 @@
+AS Resolusi
+1. Belajar dasar-dasar pemrograman
+2. Belajar membuat sebuah program
